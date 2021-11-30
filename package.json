@@ -18,5 +18,8 @@
   "homepage": "https://github.com/trm621/jest-another-rpg#readme",
   "devDependencies": {
     "jest": "^27.4.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
 }
